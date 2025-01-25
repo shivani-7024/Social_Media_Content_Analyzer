@@ -1,8 +1,5 @@
 # **Social Media Content Analyzer**
 
-![App Logo or Banner](https://via.placeholder.com/600x200)  
-*(Add your app's logo or a banner image here)*
-
 ## **About the Project**  
 The **Social Media Content Analyzer** is an advanced **Android application** designed to analyze social media content and provide actionable recommendations. The app utilizes **Google Gemini API** for content analysis and **Google ML Kit** for text extraction from images and PDFs. It aims to enhance your content strategy by generating **dynamic insights**, **trending hashtags**, and **HTML-rendered suggestions** to optimize engagement.
 
