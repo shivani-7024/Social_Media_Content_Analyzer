@@ -1,7 +1,3 @@
-Here's a professional and detailed README file for your project:
-
----
-
 # **Social Media Content Analyzer**
 
 ![App Logo or Banner](https://via.placeholder.com/600x200)  
